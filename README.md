@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> 😃️</h1>
+  <h1 align="center">Oi, eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Luis Fabrício</i></a> 😃️</h1>
   <p align="center">Estudante de Tecnologia da Informação e comunicação , apaixonado por inovação e em busca de uma vida relevante e com propósito! 
  
 </div>
